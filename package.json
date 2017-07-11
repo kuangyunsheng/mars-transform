@@ -1,0 +1,14 @@
+{
+  "name": "mars-trasform",
+  "version": "1.0.0",
+  "description": "GCJ-02 和 BD-09之间的坐标转换",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "wgs2mars": "^0.2.0"
+  }
+}
