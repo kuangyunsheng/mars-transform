@@ -46,6 +46,6 @@ GPS，WGS-84，原始坐标系。
 
 ##免责声明
 
-该项目对基于wgs2mars实现WGS-84间GCJ-02的转换，同时GCJ-02与BD-09的转换参考了coordTransform_py的算法，作者不对其准确性和合法性做保证。
+该项目对基于wgs2mars实现WGS-84与GCJ-02的转换，同时参考coordTransform_py的算法实现GCJ-02与BD-09的转换，作者不对其准确性和合法性做保证。
 **请在遵守国家保密法的前提下自行斟酌使用**。
 
